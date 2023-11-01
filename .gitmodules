@@ -1,4 +1,4 @@
 [submodule "plan-microservice"]
 	path = plan-microservice
 	url = https://github.com/RoberthOvelar/plan-microservice
-	branch = master
+	branch = main
