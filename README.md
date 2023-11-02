@@ -11,7 +11,7 @@ A visão geral do sistema CoffeeControl aborda a questão do controle de despesa
 
 ## Solução
 
-![TADS-Microservices (1)](https://github.com/RoberthOvelar/plan-microservice/assets/101338393/27e7df34-8470-4dfa-b59c-8a144e66223f)
+![TADS-Microservices (1)](https://github.com/RoberthOvelar/tads-microservices/assets/101338393/bddac5a7-a18f-4310-b9b4-404513178c04)
 
 ### Financeiro
 Serviço com foco no processamento de dados financeiros da aplicação, inclui:
